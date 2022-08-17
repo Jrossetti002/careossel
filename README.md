@@ -1,2 +1,2 @@
-# careossel
+# carrossel
 Animação carrossel

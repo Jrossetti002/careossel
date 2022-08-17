@@ -5,12 +5,12 @@
 }
 
 .carrossel .imagens{
-    width: 1000%;
-    animation: animacao 30s infinite;
+    width: 1100%;
+    animation: animacao 9.99s infinite;
 }
 
 .carrossel .imagens img{
-    width: 30%;
+    width: 10%;
 }
 
 @keyframes animacao{

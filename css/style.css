@@ -1,0 +1,18 @@
+.carrossel{
+    width: ;
+    height: ;
+    overflow: hidden;
+}
+
+.carrossel .imagens{
+    width: 1000%;
+    animation: animacao 30s infinite;
+}
+
+.carrossel .imagens img{
+    width: ;
+}
+
+@keyframes animacao{
+    
+}

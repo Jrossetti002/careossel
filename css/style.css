@@ -6,21 +6,33 @@
 
 .carrossel .imagens{
     width: 1100%;
-    animation: animacao 9.99s infinite;
+    animation: animacao 0s infinite;
 }
 
 .carrossel .imagens img{
-    width: 10%;
+    width: 9.04%;
 }
 
 @keyframes animacao{
     0% {margin-left: 0%;}
-    20% {margin-left: 0%;}
-    25% {margin-left: -100%;}
-    45% {margin-left: -100%;}
-    50% {margin-left: -200%;}
-    70% {margin-left: -200%;}
-    75% {margin-left: -300%;}
-    95% {margin-left: -300%;}
+    5% {margin-left: 0%;}
+    7% {margin-left: -100%;}
+    12% {margin-left: -100%;}
+    14% {margin-left: -200%;}
+    19% {margin-left: -200%;}
+    24% {margin-left: -300%;}
+    49% {margin-left: -300%;}
+    52% {margin-left: -400%;}
+    62% {margin-left: -400%;}
+    65% {margin-left: -500%;}
+    75% {margin-left: -500%;}
+    77% {margin-left: -600%;}
+    87% {margin-left: -600%;}
+    90% {margin-left: -700%;}
+    100% {margin-left: -700%;}
+    80% {margin-left: -800%;}
+    85% {margin-left: -800%;}
+    90% {margin-left: -900%;}
+    95% {margin-left: -900%;}
     100% {margin-left: -400%;}
 }
